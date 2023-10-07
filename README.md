@@ -1,10 +1,10 @@
-# | NLP | PERF | DialogSum | Dialogue Summarize | 
+# | NLP | PEFT/LoRA | DialogSum | Dialog Summarize |
 
-## NLP (Natural language processing) and PERF (Parameter Efficient Fine-Tuning) for Dialogue Summarization
+## NLP (Natural Language Processing) with PEFT (Parameter Efficient Fine-Tuning) and LoRA (Low-Rank Adaptation) for Dialogue Summarization
 
 # <b>Introduction</b>
 
-This project delves into the capabilities of LLM (Language Model) with a specific focus on leveraging PERF (Parameter Efficient Fine-Tuning) for enhancing dialogue summarization using the FLAN-T5 model.
+This project delves into the capabilities of LLM (Language Model) with a specific focus on leveraging Parameter Efficient Fine-Tuning (PEFT) for enhancing dialogue summarization using the FLAN-T5 model.
 
 Our goal is to enhance the quality of dialogue summarization by employing a comprehensive fine-tuning approach and evaluating the results using ROUGE metrics. Additionally, we will explore the advantages of Parameter Efficient Fine-Tuning (PEFT), demonstrating that its benefits outweigh any potential minor performance trade-offs.
 
@@ -27,5 +27,6 @@ The [DialogSum Dataset](https://huggingface.co/datasets/knkarthick/dialogsum) Di
 -  **Evaluation**:
     - Perform human evaluation to gauge the model's output in terms of readability and coherence. This can involve annotators ranking generated summaries for quality.
     - Utilize ROUGE metrics to assess the quality of the generated summaries. ROUGE measures the overlap between generated summaries and human-written references.
+
  
 [| View on Kaggle |](https://www.kaggle.com/code/yannicksteph/lnp-perf-dialogsum-dialogue-summarize/)
