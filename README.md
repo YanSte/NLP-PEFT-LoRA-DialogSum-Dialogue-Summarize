@@ -1,6 +1,6 @@
 # | NLP | PERF | DialogSum | Dialogue Summarize | 
 
-## NLP (Language Natural Processing) and PERF (Parameter Efficient Fine-Tuning) for Dialogue Summarization
+## NLP (Natural language processing) and PERF (Parameter Efficient Fine-Tuning) for Dialogue Summarization
 
 # <b>Introduction</b>
 
